@@ -1,0 +1,126 @@
+.rocas-container-cover{
+    width: 100%;
+    height: 100px;
+    position: relative;
+    margin-top: 80px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.rocas-container-cover:before{
+    content: '';
+    width: 100%;
+    height: 100%;
+    background:  rgba(154, 75, 10, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.container-info-cover{
+    max-width: 300px;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+}
+
+.container-info-cover h1{
+    font-size: 40px;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+
+/*Contenedor - contenido del articulo*/
+
+.container-info{
+    margin-left: 100px;
+    margin-right: 100px;
+    width:1200px;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.container-info h2{
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.container-info p{
+    font-size: 25px;
+    font-weight: 350;
+    margin-bottom: 20px;
+}
+
+  /*Imagenes */
+  
+div.gallery:hover {
+    background: #777;
+    border: 1px solid #777;
+  }
+  
+div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+div.desc {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .responsive {
+    margin-left: 30px;
+    padding: 6 6px;
+    float: left;
+    width: 30%;
+  }
+  
+  @media only screen and (max-width: 700px) {
+    .responsive {
+      width: 49.99999%;
+      margin: 6px 0;
+    }
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .responsive {
+      width: 100%;
+    }
+  }
+  
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;}  
+
+
+    @media screen and (max-width: 1220px){
+        .container-info{
+            max-width: 1000px;
+            padding: 0 20px;
+        }
+    }
+    
+    @media screen and (max-width: 1020px){
+        /*Para que el articulo ocupe el 100 y quite el aside banner*/
+       .container-info{
+        width: 100%;
+        flex-direction: column;
+       }
+
+    }
