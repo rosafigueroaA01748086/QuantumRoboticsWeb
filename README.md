@@ -1,7 +1,16 @@
 # QuantumRoboticsWeb
 Página Web prototipo
 
+![imagen](https://github.com/rosafigueroaA01748086/QuantumRoboticsWeb/assets/105660271/0401bf28-12e8-4b3e-9e1c-f14e581fb983)
+
+![imagen](https://github.com/rosafigueroaA01748086/QuantumRoboticsWeb/assets/105660271/86867576-c6cd-46c7-95f9-fe01fe98abbf)
+
 ![imagen](https://github.com/rosafigueroaA01748086/QuantumRoboticsWeb/assets/105660271/f40fb544-1515-46a2-8eb8-4131fd82cd34)
+
+![imagen](https://github.com/rosafigueroaA01748086/QuantumRoboticsWeb/assets/105660271/9fa24e67-839c-4f08-9c0c-3900180379fa)
+
+![imagen](https://github.com/rosafigueroaA01748086/QuantumRoboticsWeb/assets/105660271/29e5eac4-1014-4414-a2c1-f6753c85b34d)
+
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
