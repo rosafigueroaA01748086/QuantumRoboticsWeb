@@ -3,7 +3,7 @@ Página Web prototipo
 
 ![imagen](https://github.com/rosafigueroaA01748086/QuantumRoboticsWeb/assets/105660271/0401bf28-12e8-4b3e-9e1c-f14e581fb983)
 
-![imagen](https://github.com/rosafigueroaA01748086/QuantumRoboticsWeb/assets/105660271/86867576-c6cd-46c7-95f9-fe01fe98abbf)
+![imagen](https://github.com/rosafigueroaA01748086/QuantumRoboticsWeb/assets/105660271/d8dbe426-0032-4f2a-aa46-5b3fc52565aa)
 
 ![imagen](https://github.com/rosafigueroaA01748086/QuantumRoboticsWeb/assets/105660271/f40fb544-1515-46a2-8eb8-4131fd82cd34)
 
@@ -14,8 +14,6 @@ Página Web prototipo
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
-
-[Descripción del proyecto]
 
 Este proyecto fue diseñado con el objetivo de ayudar al equipo de Quantum Robotics durante una de sus pruebas, analizar rocas para determinar si existe vida en otros planetas. 
 Esta página web contiene 3 principales herramientas para facilitar esta tarea:
